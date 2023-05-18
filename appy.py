@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1fBLGMgoP_KAErq2uh4eyUo2N1YfRb37T
 """
 
-!pip install streamlit
-
 import streamlit as st
 import tensorflow as tf
 
